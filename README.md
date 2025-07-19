@@ -21,10 +21,15 @@ This project aims to classify iris flowers into three species (Setosa, Versicolo
 **Technologies Used**
 
 **1.Python**: The primary programming language for machine learning implementation.
+
 **2.Pandas**: For data manipulation and analysis.
+
 **3.NumPy**: For numerical operations and array handling.
+
 **4.Scikit-learn**: For machine learning algorithms, data splitting, and evaluation metrics.
+
 **5.Matplotlib**: For creating static visualizations and plots.
+
 **6.Seaborn**: For creating informative and attractive statistical graphics.
 
 **Dataset**
